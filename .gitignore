@@ -1,0 +1,5 @@
+/var/
+/vendor/
+/composer.lock
+/phpunit.xml
+/psalm.xml
